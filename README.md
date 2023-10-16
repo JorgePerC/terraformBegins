@@ -91,5 +91,3 @@ To check for components:
 * [General tags documentation](https://registry.terraform.io/providers/oracle/oci/latest/docs)
 * [Useful tutorials](https://docs.oracle.com/en-us/iaas/developer-tutorials/tutorials/home.htm)
 * [Variables expansion](https://developer.hashicorp.com/terraform/language/values)
-
-deleteMe
